@@ -1,0 +1,21 @@
+            __________________
+       3.3V|o                o|GND
+           |o                o|
+ADC0-GPIO36|o                o|
+           |o                o|
+           |o                o|
+           |o                o|
+           |o                o|GND
+           |o                o|
+DAC1-GPIO25|o                o|
+           |o                o|
+           |o                o|
+           |o                o|
+           |o                o|
+        GND|o                o|
+           |o                o|
+           |o                o|
+           |o     ______     o|
+           |o    | USB  |    o|
+         5V|o    |      |    o|
+           |_____|______|_____|
